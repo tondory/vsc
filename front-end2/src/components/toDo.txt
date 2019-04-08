@@ -1,0 +1,10 @@
+Make a "test" budget
+if test = selected then load it
+
+graph?
+
+https://itnext.io/anyway-heres-how-to-create-a-multiple-layout-system-with-vue-and-vue-router-b379baa91a05
+
+
+make a few categories like investments etc and for the investments
+how long do you plan on using it? (estimate) = x months
